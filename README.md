@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Machine+Learning+Engineer;AI+Developer;Full+Stack+Developer;Open+Source+Contributor;Always+Learning+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Machine+Learning+Engineer;AI+Developer;Full+Stack+Developer;Open+Source+Contributor;Always+Learning+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
@@ -92,32 +92,32 @@ I'm continuously expanding my expertise in **LLMs, RAG, MLOps, Cloud Computing, 
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=scout6774-66667&theme=dracula&show_icons=true&cache_seconds=86400"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=scout6774-66667&theme=dracula"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=scout6774-66667&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
+<img height="165" src="https://streak-stats.demolab.com?user=scout6774-66667&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scout6774-66667&layout=compact&theme=dracula"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scout6774-66667&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=scout6774-66667&theme=dracula"/>
-</p>
+> **Note:** The cards above are served by shared community APIs. If you notice a card fail to load or show 0 activity, it usually means the API is rate-limited or your GitHub profile is still private/new — refresh after a minute, or see the "Fixing broken widgets" note at the bottom of this README.
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=scout6774-66667&theme=dracula&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=scout6774-66667&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&margin-h=8&row=1&column=6"/>
 </p>
+
+> Trophies only appear once GitHub has enough public activity to award them (commits, PRs, stars, followers, account age, etc.) — with a brand-new account some slots may render as "Secret" or blank until you build up activity.
 
 ---
 
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=scout6774-66667&theme=dracula"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=scout6774-66667&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 ---
@@ -133,11 +133,26 @@ I'm continuously expanding my expertise in **LLMs, RAG, MLOps, Cloud Computing, 
 
 ---
 
+## 🔧 Fixing broken widgets
+
+The stats/trophy/graph cards above are rendered by free, shared community services, not by GitHub itself — that's why they occasionally go blank or stale:
+- **`github-readme-stats.vercel.app`** and **`github-profile-trophy.vercel.app`** are free Vercel deployments with a shared usage quota. Under heavy global traffic they rate-limit and return blank SVGs.
+- If a card stays broken for more than a day, the most reliable long-term fix is deploying your own instance (each project has a "Deploy to Vercel" button on its GitHub repo) and swapping the domain in the image URL to your own deployment.
+- Always double check the `username=` value matches your exact GitHub handle — a typo silently returns an empty card instead of an error.
+
 ## ☕ Support
 
 If you like my work, consider giving ⭐ to my repositories.
 
 <p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"/>
+</p>
+
+<p align="center"><b>⭐ Turning ideas into intelligent products through AI, Machine Learning, and Scalable Software Engineering.</b></p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=100&section=footer"/>
+</p>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"/>
 </p>
 
