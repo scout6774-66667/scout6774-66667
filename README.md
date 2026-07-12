@@ -28,6 +28,12 @@
 ---
 
 ## 2. About
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/a0/0c/ca/a00ccaf8e2ddb4b886d3936a287959b8.gif" alt="Pixel Art Coding Lofi" width="100%" style="border-radius: 10px; border: 2px solid #8A2BE2;" />
+</p>
+<br>
+
 I am a Machine Learning Intern with a solid foundation in data analysis, model development, and problem-solving[cite: 1]. I am dedicated to applying advanced Machine Learning techniques to real-world datasets and enhancing my technical expertise[cite: 1]. My engineering approach integrates a product mindset, bridging the gap between scalable full-stack software architecture and high-performance AI algorithms. I continuously learn emerging technologies to build enterprise-grade, secure, and intuitive applications[cite: 1].
 
 **Open To:** Machine Learning Engineering Roles, Artificial Intelligence Internships, Open Source Collaborations, and roles combining AI with scalable product engineering.
@@ -37,188 +43,46 @@ I am a Machine Learning Intern with a solid foundation in data analysis, model d
 ## 3. Tech Stack
 
 ### Languages & Software Engineering
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,python,java,js,ts,solidity,mysql" alt="Languages" />
   </a>
 </p>
 
-* **Programming Languages:** C • Python • Java • JavaScript • TypeScript • Solidity • SQL
-* **Software Engineering:** Object-Oriented Programming • Data Structures & Algorithms • REST APIs • Microservices
-
 ### 🌐 Web Development
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind,bootstrap,materialui" alt="Frontend" />
   </a>
 </p>
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | HTML5 • CSS3 • JavaScript • TypeScript |
-| **Frontend Frameworks** | React • Next.js • Vite |
-| **Mobile** | React Native (Learning) |
-| **React Ecosystem** | Redux Toolkit • React Router • React Query |
-| **Build Tools** | Vite • Webpack • Babel • npm |
-| **Styling** | Tailwind CSS • Bootstrap • Material UI • ShadCN/UI • Framer Motion |
-
 ### ⚙️ Backend & Databases
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,postgres,mongodb,firebase,prisma" alt="Backend & DB" />
   </a>
 </p>
 
-| Category | Technologies |
-| :--- | :--- |
-| **Backend** | Node.js • Express.js • FastAPI • Flask |
-| **Backend Frameworks** | Express • FastAPI • Flask |
-| **Databases** | PostgreSQL • MongoDB • MySQL • SQLite • Firebase Firestore |
-| **ORMs** | Prisma • Drizzle ORM • Mongoose |
-| **Backend Services** | JWT Authentication • OAuth • Firebase Authentication • REST APIs • WebSockets |
-
-### 🚀 DevOps, MLOps & Tools
-<p align="left">
+### 🚀 DevOps & Tools
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,azure,vercel,docker,kubernetes,githubactions,jenkins,git" alt="DevOps & Tooling" />
+    <img src="https://skillicons.dev/icons?i=gcp,azure,vercel,docker,kubernetes,githubactions,jenkins,git,vscode,pycharm,postman,figma,notion" alt="DevOps & Tooling" />
   </a>
 </p>
-
-| Category | Technologies |
-| :--- | :--- |
-| **Cloud Platforms** | Google Cloud • Azure • Vercel • Render • Railway |
-| **CI/CD & Automation** | GitHub Actions • Jenkins |
-| **Containerization** | Docker • Kubernetes |
-| **MLOps Platforms** | MLflow • Weights & Biases • TensorBoard |
-| **IDEs & Editors** | VS Code • PyCharm • Jupyter Notebook |
-| **Package Managers** | npm • pnpm • Yarn • pip |
-| **Version Control** | Git • GitHub • GitLab |
-| **API & Design** | Postman • Figma • Canva • Markdown • Notion |
 
 ---
 
 ## 4. AI / ML Expertise
 
-### 📊 Machine Learning & Data Science
-
-| Category | Technologies |
-| :--- | :--- |
-| **Frameworks** | TensorFlow • PyTorch • Scikit-learn • Keras • Hugging Face Transformers |
-| **Data Analysis** | Pandas • NumPy • SciPy |
-| **Data Visualization** | Matplotlib • Seaborn • Plotly |
-| **Computer Vision** | OpenCV • YOLOv8 • MediaPipe |
-| **NLP** | NLTK • spaCy • Transformers • BERT |
-| **Deep Learning** | CNN • RNN • LSTM • ANN • Vision Transformers (ViT) |
-| **Model Optimization** | XGBoost • Random Forest • LightGBM |
-| **Tools** | Jupyter Notebook • Google Colab • Kaggle |
-
-### 🤖 Generative AI Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **LLM Frameworks** | LangChain • LangGraph • LlamaIndex • CrewAI |
-| **Prompt Engineering** | Chain of Thought • RAG • Function Calling |
-| **Vector Databases** | ChromaDB • Pinecone |
-| **Automation** | n8n |
-| **LLM Providers** | OpenAI • Gemini • Claude • Groq • Hugging Face Inference API • Ollama |
-| **Embedding Models** | OpenAI Embeddings • Sentence Transformers • BGE Embeddings |
-| **AI APIs** | OpenAI API • Gemini API • Hugging Face API |
-
----
-
-## 5. Featured Projects
-
-<details>
-<summary><b>SAVEZO - Deep Fake Detection Platform</b> <i>(Click to expand)</i></summary>
-<br>
-
-An AI-based system that analyzes images and videos in real-time to detect deepfake content and flag or block harmful media[cite: 1].
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Python, FastAPI, CNN + LSTM, ViT, YOLOv8, BERT NLP[cite: 1] | Enterprise | Real-time Analysis | High | Mitigates harmful media | [View Source](#) |
-
-*Professional Explanation:* Designed a scalable multimodal deep learning architecture utilizing Vision Transformers (ViT) and CNN+LSTM layers to capture spatial and temporal anomalies in synthetic media, served securely via robust backend endpoints[cite: 1].
-
-</details>
-
-<details>
-<summary><b>AI-Powered Precision Mental Wellness Analyzer</b> <i>(Click to expand)</i></summary>
-<br>
-
-A multimodal emotion analysis platform providing real-time wellness scoring and personalized insights[cite: 1].
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Python, ANN, OpenAPI, OpenCV, Random Forest, Numpy, Pandas[cite: 1] | Application | Real-time Scoring | Privacy-focused | Wellness Tracking | [View Source](#) |
-
-*Professional Explanation:* Engineered an advanced artificial neural network (ANN) coupled with OpenCV for real-time facial expression mapping and emotion detection, standardizing wellness tracking dynamically[cite: 1].
-
-</details>
-
-<details>
-<summary><b>InterviewAI - AI-powered Interview Preparation Platform</b> <i>(Click to expand)</i></summary>
-<br>
-
-Built a fully offline, single-file interview preparation system featuring ATS-based resume analysis, interactive mock interviews, and AI-generated feedback[cite: 1].
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| HTML5, JavaScript, Web Speech API, NLP[cite: 1] | Client-side | Low Latency | Offline / Secure | Interview Prep | [View Source](#) |
-
-*Professional Explanation:* Leveraged the Web Speech API and NLP-based resume parsing to construct an emotion-based video analytics tool with transcript generation, ensuring full user privacy via a localized offline architecture[cite: 1].
-
-</details>
-
----
-
-## 6. Experience
-
-**AI and Cloud Intern** | Edu net IBM skills build[cite: 1]
-*Nov 2025 - Jan 2026 | Remote*[cite: 1]
-* Developed automatic note summarization, quiz, and flashcard generation tools[cite: 1].
-* Engineered a chat-based study assistant providing instant, topic-specific help to make studying more interactive[cite: 1].
-* **Skills:** AI, Cloud, NLP, Generative AI, Prompt Engineering.
-
-**Web Developer Intern** | Inno byte[cite: 1]
-*Oct 2025 - Nov 2025 | Remote*[cite: 1]
-* Built an AI-powered campus analytics platform delivering real-time insights[cite: 1].
-* Integrated modules for footfall tracking, waste management, water usage monitoring, space occupancy analysis, and predictive maintenance[cite: 1].
-* **Skills:** Web Development, AI Analytics, Predictive Maintenance, Real-time Systems.
-
----
-
-## 7. Achievements
-
-| Recognition | Details |
-| :---: | :--- |
-| **High Academic Distinction** | Achieved a 9.38 CGPA in B.Tech Computer Science & Engineering (AIML) at Brainware University[cite: 1]. |
-| **Secondary Board Excellence** | Secured 76.75% in ICSE Board (St. James Convent School) and 70.20% in CBSE Board (MBS Public School)[cite: 1]. |
-
----
-
-## 8. Certifications
-
 <p align="center">
-  <b>AWS</b><br>
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20(Pursuing)-8A2BE2?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-</p>
-<p align="center">
-  <b>Oracle</b><br>
-  <img src="https://img.shields.io/badge/Oracle-Database%20Foundation%20(Pursuing)-4B0082?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-</p>
-<p align="center">
-  <b>NPTEL</b><br>
-  <img src="https://img.shields.io/badge/NPTEL-Machine%20Learning%20(Active)-9370DB?style=for-the-badge&logo=swayam&logoColor=white" alt="NPTEL" />
-</p>
-<p align="center">
-  <b>Cisco</b><br>
-  <img src="https://img.shields.io/badge/Cisco-Networking%20Basics%20(Active)-8A2BE2?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,opencv,python" alt="AI and ML Frameworks" />
+  </a>
 </p>
 
 ---
 
-## 9. Coding Profiles
+## 5. Coding Profiles
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
@@ -229,7 +93,7 @@ Built a fully offline, single-file interview preparation system featuring ATS-ba
 
 ---
 
-## 10. GitHub Analytics
+## 6. GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=scout677466667&theme=dracula&show_icons=true&hide_border=false&border_color=8A2BE2&border_radius=10" alt="GitHub Stats" width="48%" />
@@ -241,7 +105,7 @@ Built a fully offline, single-file interview preparation system featuring ATS-ba
 
 ---
 
-## 11. GitHub Trophies
+## 7. GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=scout677466667&theme=dracula&row=1&column=6&margin-w=15&margin-h=15" alt="Trophies" />
@@ -249,7 +113,7 @@ Built a fully offline, single-file interview preparation system featuring ATS-ba
 
 ---
 
-## 12. Contribution Activity
+## 8. Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=scout677466667&theme=dracula&hide_border=false&radius=10" alt="Activity Graph" width="100%" />
@@ -257,7 +121,7 @@ Built a fully offline, single-file interview preparation system featuring ATS-ba
 
 ---
 
-## 13. Contribution Snake
+## 9. Contribution Snake
 
 <p align="center">
   <picture>
@@ -269,23 +133,26 @@ Built a fully offline, single-file interview preparation system featuring ATS-ba
 
 ---
 
-## 14. Current Focus
+## 10. Connect
 
-```yaml
-Current_Focus:
-  Learning: 
-    - Advanced Explainable AI (SHAP)
-    - Web3 Technologies & Smart Contracts
-  Building: 
-    - Resilience Engine v3 (FraudShield AI)
-    - Hybrid Statistical & Transformer NLP Pipelines
-  Exploring: 
-    - Multimodal AI Architectures
-    - Large Language Model Fine-tuning (LLaMA, CrewAI)
-  Open_To: 
-    - Machine Learning Engineering Roles
-    - Full-Stack AI Development
-    - Cybersecurity & Fintech Solutions
+<p align="center">
+  <a href="mailto:rawnee63@gmail.com"><img src="https://img.shields.io/badge/Gmail-rawnee63@gmail.com-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>[cite: 1]
+  <a href="https://linkedin.com/in/abirk07"><img src="https://img.shields.io/badge/LinkedIn-abirk07-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>[cite: 1]
+  <a href="https://github.com/scout677466667"><img src="https://img.shields.io/badge/GitHub-scout677466667-9370DB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>[cite: 1]
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Abir%20Khan-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+---
+
+## 11. Footer
+
+<p align="center">
+  <i>"Building the future of artificial intelligence through scalable software engineering."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=100&section=footer" alt="Footer Banner" />
+</p>
   Exploring: 
     - Generative AI Optimization
     - Large Language Model Fine-tuning
