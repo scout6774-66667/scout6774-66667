@@ -43,30 +43,76 @@ I'm continuously expanding my expertise in **LLMs, RAG, MLOps, Cloud Computing, 
 
 ## 🛠 Tech Stack
 
-### Languages
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,py,java,js,ts,mysql"/>
-<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+
+**Have worked in:**
+
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Material_UI-007FFF?logo=mui&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white"/>
 </p>
 
-### Frontend
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind,bootstrap"/>
-<img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
+**AI / ML frameworks used:**
+
+<p align="left">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit_learn-F7931E?logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/>
 </p>
 
-### Backend
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,postgres,mongodb,firebase,prisma"/>
+**Version control and development tools used:**
+
+<p align="left">
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"/>
 </p>
 
-### DevOps & Tools
-<p align="center">
-<img src="https://skillicons.dev/icons?i=gcp,azure,vercel,docker,kubernetes,git,githubactions,vscode,pycharm,postman,figma,notion"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+**Cloud and DevOps familiar with:**
+
+<p align="left">
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white"/>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+
+
 
 ## 🤖 AI / ML Expertise
 
@@ -84,10 +130,22 @@ I'm continuously expanding my expertise in **LLMs, RAG, MLOps, Cloud Computing, 
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|----------|-------------|-------|
+| Finance Ally | AI financial assistant | React, FastAPI |
+| TalentCompass AI | Resume intelligence platform | Next.js, Python |
+| Route Resilience | Road extraction & graph analysis | PyTorch, GIS |
+| MetroScheduler | AI train scheduling | React, Flask |
+
+---
+
 ## 💻 Coding Profiles
 
 <p align="center">
 <a href="https://leetcode.com/u/abirk176/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://github.com/scout6774-66667"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -144,11 +202,21 @@ I'm continuously expanding my expertise in **LLMs, RAG, MLOps, Cloud Computing, 
 <a href="mailto:rawnee63@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
+---
 
 ## ☕ Support
 
 If you like my work, consider giving ⭐ to my repositories.
 
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"/>
+</p>
+
+<p align="center"><b>⭐ Turning ideas into intelligent products through AI, Machine Learning, and Scalable Software Engineering.</b></p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=100&section=footer"/>
+</p>
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"/>
 </p>
