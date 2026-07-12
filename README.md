@@ -84,22 +84,10 @@ I'm continuously expanding my expertise in **LLMs, RAG, MLOps, Cloud Computing, 
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|----------|-------------|-------|
-| Finance Ally | AI financial assistant | React, FastAPI |
-| TalentCompass AI | Resume intelligence platform | Next.js, Python |
-| Route Resilience | Road extraction & graph analysis | PyTorch, GIS |
-| MetroScheduler | AI train scheduling | React, Flask |
-
----
-
 ## 💻 Coding Profiles
 
 <p align="center">
 <a href="https://leetcode.com/u/abirk176/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://github.com/scout6774-66667"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
