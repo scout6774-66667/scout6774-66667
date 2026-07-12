@@ -17,9 +17,17 @@
 <img src="https://img.shields.io/github/followers/scout6774-66667?style=for-the-badge&color=4B0082&label=FOLLOWERS&logo=github"/>
 <a href="https://github.com/scout6774-66667?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-View_All-9370DB?style=for-the-badge&logo=github"/></a>
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+
 </div>
 
 <h1 align="center">👋 Hi, I'm Abir Khan</h1>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500"/>
+</p>
 
 ## 🚀 About Me
 
@@ -145,6 +153,18 @@ I'm continuously expanding my expertise in **LLMs, RAG, MLOps, Cloud Computing, 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=scout6774-66667&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/scout6774-66667/scout6774-66667/output/github-contribution-grid-snake-dark.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/scout6774-66667/scout6774-66667/output/github-contribution-grid-snake.gif" />
+  <img alt="Animated snake eating through the contribution graph" src="https://raw.githubusercontent.com/scout6774-66667/scout6774-66667/output/github-contribution-grid-snake.gif" width="100%" />
+</picture>
+</p>
+
+> ⚙️ **Requires a second, separate one-time setup** (`platane/snk` — a different, simpler Action than the metrics one). See the "Enable the animated snake" section below. This generates a fully **animated GIF** (not a static image) in your brand purple, with automatic light/dark versions that switch based on the viewer's GitHub theme — regenerates daily from your real contribution history.
+
 ---
 
 ## 📫 Connect With Me
@@ -157,6 +177,16 @@ I'm continuously expanding my expertise in **LLMs, RAG, MLOps, Cloud Computing, 
 </p>
 
 ---
+
+## 🐍 Enable the animated snake
+
+The **Contribution Snake** section is a separate, much simpler setup than the metrics widgets — it uses the `platane/snk` Action instead of `lowlighter/metrics`, and needs no personal access token at all (it uses GitHub's automatically-provided token).
+
+1. In your **`scout6774-66667/scout6774-66667`** repo, create a file at `.github/workflows/snake.yml` with the contents from `snake-workflow.yml` (provided alongside this README) — same method as before: **Add file → Create new file**, type the path, then paste the content in.
+2. Commit directly to `main`.
+3. Go to **Actions → Generate Snake → Run workflow** to trigger it the first time.
+4. It publishes the animated files to a separate branch called `output` (created automatically) — you don't need to touch that branch yourself. Four files get generated: light and dark **animated GIFs** (used in the README) plus light and dark static SVG backups.
+5. The `<img>` tag in the **Contribution Snake** section already points to that branch/file — it'll start animating once the run finishes.
 
 ## ⚙️ Enable the advanced widgets (stats, languages, achievements, habits, calendar)
 
@@ -180,14 +210,6 @@ Five sections in this README — **GitHub Analytics** (stats + languages), **Git
 If you like my work, consider giving ⭐ to my repositories.
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"/>
-</p>
-
-<p align="center"><b>⭐ Turning ideas into intelligent products through AI, Machine Learning, and Scalable Software Engineering.</b></p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=100&section=footer"/>
-</p>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"/>
 </p>
 
