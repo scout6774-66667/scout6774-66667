@@ -15,7 +15,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=scout6774-66667&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/scout6774-66667?style=for-the-badge&color=4B0082&label=FOLLOWERS&logo=github"/>
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fscout6774-66667&label=REPOSITORIES&query=%24.public_repos&color=9370DB&style=for-the-badge&logo=github"/>
+<a href="https://github.com/scout6774-66667?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-View_All-9370DB?style=for-the-badge&logo=github"/></a>
 
 </div>
 
@@ -100,7 +100,7 @@ I'm continuously expanding my expertise in **LLMs, RAG, MLOps, Cloud Computing, 
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/scout6774-66667/scout6774-66667/main/github-metrics/general.svg" width="49%" alt="General GitHub stats: stars, commits, PRs, issues, repos"/>
-<img height="165" src="https://streak-stats.demolab.com?user=scout6774-66667&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=A855F7&fire=8A2BE2&currStreakLabel=A855F7"/>
+<img src="https://streak-stats.demolab.com?user=scout6774-66667&hide_border=true&background=0D1117&ring=A855F7&fire=8A2BE2&currStreakLabel=A855F7&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E"/>
 </p>
 
 <p align="center">
