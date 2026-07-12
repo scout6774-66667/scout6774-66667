@@ -28,56 +28,101 @@
 ---
 
 ## 2. About
-I am a Machine Learning Intern with a strong foundation in data analysis, model development, and problem-solving[cite: 1]. I am deeply focused on applying Machine Learning techniques to real-world datasets and enhancing technical expertise[cite: 1]. My engineering approach integrates a product mindset, bridging the gap between advanced AI algorithms and scalable software engineering. I am passionate about continuously learning emerging technologies while contributing to organizational success[cite: 1].
+I am a Machine Learning Intern with a solid foundation in data analysis, model development, and problem-solving[cite: 1]. I am dedicated to applying advanced Machine Learning techniques to real-world datasets and enhancing my technical expertise[cite: 1]. My engineering approach integrates a product mindset, bridging the gap between scalable full-stack software architecture and high-performance AI algorithms. I continuously learn emerging technologies to build enterprise-grade, secure, and intuitive applications[cite: 1].
 
-**Open To:** Seeking opportunities to apply Machine Learning and Deep Learning frameworks to real-world datasets, contributing to enterprise-grade AI products[cite: 1].
+**Open To:** Machine Learning Engineering Roles, Artificial Intelligence Internships, Open Source Collaborations, and roles combining AI with scalable product engineering.
 
 ---
 
 ## 3. Tech Stack
 
-### Languages
+### Languages & Software Engineering
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,html,js" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=c,python,java,js,ts,solidity,mysql" alt="Languages" />
   </a>
 </p>
 
-### Frontend
+* **Programming Languages:** C • Python • Java • JavaScript • TypeScript • Solidity • SQL
+* **Software Engineering:** Object-Oriented Programming • Data Structures & Algorithms • REST APIs • Microservices
+
+### 🌐 Web Development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js" alt="Frontend" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind,bootstrap,materialui" alt="Frontend" />
   </a>
 </p>
 
-### Backend & Databases
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | HTML5 • CSS3 • JavaScript • TypeScript |
+| **Frontend Frameworks** | React • Next.js • Vite |
+| **Mobile** | React Native (Learning) |
+| **React Ecosystem** | Redux Toolkit • React Router • React Query |
+| **Build Tools** | Vite • Webpack • Babel • npm |
+| **Styling** | Tailwind CSS • Bootstrap • Material UI • ShadCN/UI • Framer Motion |
+
+### ⚙️ Backend & Databases
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,mysql" alt="Backend & DB" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,postgres,mongodb,firebase,prisma" alt="Backend & DB" />
   </a>
 </p>
 
-### Cloud, DevOps & Tooling
+| Category | Technologies |
+| :--- | :--- |
+| **Backend** | Node.js • Express.js • FastAPI • Flask |
+| **Backend Frameworks** | Express • FastAPI • Flask |
+| **Databases** | PostgreSQL • MongoDB • MySQL • SQLite • Firebase Firestore |
+| **ORMs** | Prisma • Drizzle ORM • Mongoose |
+| **Backend Services** | JWT Authentication • OAuth • Firebase Authentication • REST APIs • WebSockets |
+
+### 🚀 DevOps, MLOps & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github" alt="DevOps" />
+    <img src="https://skillicons.dev/icons?i=gcp,azure,vercel,docker,kubernetes,githubactions,jenkins,git" alt="DevOps & Tooling" />
   </a>
 </p>
-<p>
-  <i>Additional Tooling:</i> OpenCV, Kaggle, Hugging Face Transformers, Git, CI/CD (Basic)[cite: 1].
-</p>
+
+| Category | Technologies |
+| :--- | :--- |
+| **Cloud Platforms** | Google Cloud • Azure • Vercel • Render • Railway |
+| **CI/CD & Automation** | GitHub Actions • Jenkins |
+| **Containerization** | Docker • Kubernetes |
+| **MLOps Platforms** | MLflow • Weights & Biases • TensorBoard |
+| **IDEs & Editors** | VS Code • PyCharm • Jupyter Notebook |
+| **Package Managers** | npm • pnpm • Yarn • pip |
+| **Version Control** | Git • GitHub • GitLab |
+| **API & Design** | Postman • Figma • Canva • Markdown • Notion |
 
 ---
 
 ## 4. AI / ML Expertise
 
-| Domain | Proficiency | Details |
-| :--- | :--- | :--- |
-| **Machine Learning Foundations** | Advanced | Regression, Classification, Clustering, Decision Trees, SVM, KNN[cite: 1]. |
-| **Deep Learning** | Advanced | ANN, CNN, Vision Transformers (ViT), YOLOv8[cite: 1]. |
-| **Natural Language Processing** | Intermediate | NLP Basics, BERT NLP, Text Summarization, Keyword Extraction[cite: 1]. |
-| **ML Frameworks** | Advanced | TensorFlow, Scikit-learn, Hugging Face Transformers[cite: 1]. |
-| **Data Handling & Vis** | Advanced | NumPy, Pandas, Matplotlib, Seaborn, OpenCV[cite: 1]. |
+### 📊 Machine Learning & Data Science
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frameworks** | TensorFlow • PyTorch • Scikit-learn • Keras • Hugging Face Transformers |
+| **Data Analysis** | Pandas • NumPy • SciPy |
+| **Data Visualization** | Matplotlib • Seaborn • Plotly |
+| **Computer Vision** | OpenCV • YOLOv8 • MediaPipe |
+| **NLP** | NLTK • spaCy • Transformers • BERT |
+| **Deep Learning** | CNN • RNN • LSTM • ANN • Vision Transformers (ViT) |
+| **Model Optimization** | XGBoost • Random Forest • LightGBM |
+| **Tools** | Jupyter Notebook • Google Colab • Kaggle |
+
+### 🤖 Generative AI Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **LLM Frameworks** | LangChain • LangGraph • LlamaIndex • CrewAI |
+| **Prompt Engineering** | Chain of Thought • RAG • Function Calling |
+| **Vector Databases** | ChromaDB • Pinecone |
+| **Automation** | n8n |
+| **LLM Providers** | OpenAI • Gemini • Claude • Groq • Hugging Face Inference API • Ollama |
+| **Embedding Models** | OpenAI Embeddings • Sentence Transformers • BGE Embeddings |
+| **AI APIs** | OpenAI API • Gemini API • Hugging Face API |
 
 ---
 
@@ -93,7 +138,7 @@ An AI-based system that analyzes images and videos in real-time to detect deepfa
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Python, FastAPI, CNN + LSTM, ViT, YOLOv8, BERT NLP[cite: 1] | Enterprise | Real-time Analysis | High | Mitigates harmful media | [View Source](#) |
 
-*Professional Explanation:* Designed a scalable multimodal deep learning architecture utilizing Vision Transformers (ViT) and CNN+LSTM layers to capture spatial and temporal anomalies in synthetic media, served securely via FastAPI[cite: 1].
+*Professional Explanation:* Designed a scalable multimodal deep learning architecture utilizing Vision Transformers (ViT) and CNN+LSTM layers to capture spatial and temporal anomalies in synthetic media, served securely via robust backend endpoints[cite: 1].
 
 </details>
 
@@ -133,7 +178,7 @@ Built a fully offline, single-file interview preparation system featuring ATS-ba
 *Nov 2025 - Jan 2026 | Remote*[cite: 1]
 * Developed automatic note summarization, quiz, and flashcard generation tools[cite: 1].
 * Engineered a chat-based study assistant providing instant, topic-specific help to make studying more interactive[cite: 1].
-* **Skills:** AI, Cloud, NLP, Education Tech.
+* **Skills:** AI, Cloud, NLP, Generative AI, Prompt Engineering.
 
 **Web Developer Intern** | Inno byte[cite: 1]
 *Oct 2025 - Nov 2025 | Remote*[cite: 1]
@@ -187,11 +232,11 @@ Built a fully offline, single-file interview preparation system featuring ATS-ba
 ## 10. GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=scout677466667&theme=radical&hide_border=false&bg_color=0d1117&title_color=8A2BE2&icon_color=9370DB&text_color=ffffff&show_icons=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=scout677466667&theme=radical&background=0d1117&border=8A2BE2&ring=9370DB&fire=8A2BE2&currStreakLabel=8A2BE2" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=scout677466667&theme=dracula&show_icons=true&hide_border=false&border_color=8A2BE2&border_radius=10" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=scout677466667&theme=dracula&hide_border=false&border=8A2BE2&border_radius=10" alt="GitHub Streak" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scout677466667&theme=radical&hide_border=false&bg_color=0d1117&title_color=8A2BE2&text_color=ffffff&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scout677466667&theme=dracula&layout=compact&hide_border=false&border_color=8A2BE2&border_radius=10" alt="Top Languages" />
 </p>
 
 ---
@@ -199,7 +244,7 @@ Built a fully offline, single-file interview preparation system featuring ATS-ba
 ## 11. GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=scout677466667&theme=radical&row=1&column=6&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=scout677466667&theme=dracula&row=1&column=6&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
 
 ---
@@ -207,7 +252,7 @@ Built a fully offline, single-file interview preparation system featuring ATS-ba
 ## 12. Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=scout677466667&theme=react-dark&bg_color=0d1117&color=8A2BE2&line=9370DB&point=4B0082&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=scout677466667&theme=dracula&hide_border=false&radius=10" alt="Activity Graph" width="100%" />
 </p>
 
 ---
@@ -215,7 +260,11 @@ Built a fully offline, single-file interview preparation system featuring ATS-ba
 ## 13. Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/scout677466667/scout677466667/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/scout677466667/scout677466667/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/scout677466667/scout677466667/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/scout677466667/scout677466667/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
@@ -225,11 +274,18 @@ Built a fully offline, single-file interview preparation system featuring ATS-ba
 ```yaml
 Current_Focus:
   Learning: 
-    - Advanced NLP Techniques
-    - Distributed ML Training
+    - Advanced Explainable AI (SHAP)
+    - Web3 Technologies & Smart Contracts
   Building: 
-    - Scalable Multimodal AI Architectures
-    - Enterprise-grade Detection Platforms
+    - Resilience Engine v3 (FraudShield AI)
+    - Hybrid Statistical & Transformer NLP Pipelines
+  Exploring: 
+    - Multimodal AI Architectures
+    - Large Language Model Fine-tuning (LLaMA, CrewAI)
+  Open_To: 
+    - Machine Learning Engineering Roles
+    - Full-Stack AI Development
+    - Cybersecurity & Fintech Solutions
   Exploring: 
     - Generative AI Optimization
     - Large Language Model Fine-tuning
